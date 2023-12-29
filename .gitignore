@@ -1,2 +1,6 @@
-*
-!/*.jpg
+*/*
+!/*/wide.jpg
+!/*/square.jpg
+.DS_Store
+[Dd]esktop.ini
+Thumbs.db
